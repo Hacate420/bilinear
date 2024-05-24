@@ -1,0 +1,19 @@
+﻿  图像评价.cpp
+  梯度加权优化bilinear.cpp
+F:\偏振成像\测试代码\image_bilinear\梯度加权优化bilinear.cpp(26,67): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+F:\偏振成像\测试代码\image_bilinear\梯度加权优化bilinear.cpp(38,67): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+F:\偏振成像\测试代码\image_bilinear\梯度加权优化bilinear.cpp(51,72): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  正在生成代码...
+  image_bilinear.vcxproj -> F:\偏振成像\测试代码\image_bilinear\x64\Debug\image_bilinear.exe
